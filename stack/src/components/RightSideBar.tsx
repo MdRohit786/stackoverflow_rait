@@ -12,7 +12,7 @@ const RightSideBar = () => {
           <ul className="space-y-2 text-xs lg:text-sm">
             <li className="flex items-start">
               <span className="text-gray-400 mr-2">✏️</span>
-              <span className="text-gray-700">A new era of Stack Overflow</span>
+              <span className="text-gray-700">A new era of Rait-Quest</span>
             </li>
             <li className="flex items-start">
               <span className="text-gray-400 mr-2">✏️</span>

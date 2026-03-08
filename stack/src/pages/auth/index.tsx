@@ -56,7 +56,7 @@ const index = () => {
                 Log in to your account
               </CardTitle>
               <CardDescription>
-                Enter your email and password to access Stack Overflow
+                Enter your email and password to access Rait-Quest
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">

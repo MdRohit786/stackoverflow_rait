@@ -57,7 +57,7 @@ export default function SignUpPage() {
                 Create your account
               </CardTitle>
               <CardDescription>
-                Join the Stack Overflow community
+                Join the Rait-Quest community
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">
